@@ -1,7 +1,6 @@
 +++
-title = "About"
+title = "On Belonging"
 date = "2019-12-01"
-author = "Radek"
 +++
 
 Impostor syndrome and the genius myth permeate much of mathematics, and it has affected me more than I would have liked in my years studying math. Recently, however, I feel much better about the relationship between myself and mathematics. It took a radical shift in the way I think about how I interact with math, and by writing these thoughts down, I hope to remind myself of these thoughts if in the future I find myself doubting again whether I belong in math.
