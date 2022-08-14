@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
-    
-    
-    
-    <link>https://shima-taro.github.io/post/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <title>Posts on console-demo</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on console-demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://shima-taro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Friend</title>
-      <link>https://shima-taro.github.io/post/hello/</link>
+      <link>https://example.com/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>https://shima-taro.github.io/post/hello/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://shima-taro.github.io/img/hello.jpg&#34;/&gt;
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
-          
-        
-        </description>
+      <guid>https://example.com/post/hello/</guid>
+      <description>&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
+— Mr. Robot S01E01</description>
     </item>
     
   </channel>
