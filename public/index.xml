@@ -62,15 +62,6 @@
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://taroshima.com/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://taroshima.com/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>What is Hugo</title>
       <link>https://taroshima.com/posts/introduction/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -81,21 +72,11 @@
     
     <item>
       <title>About</title>
-      <link>https://taroshima.com/on-belonging/</link>
+      <link>https://taroshima.com/posts/on-belonging/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://taroshima.com/on-belonging/</guid>
+      <guid>https://taroshima.com/posts/on-belonging/</guid>
       <description>Impostor syndrome and the genius myth permeate much of mathematics, and it has affected me more than I would have liked in my years studying math. Recently, however, I feel much better about the relationship between myself and mathematics. It took a radical shift in the way I think about how I interact with math, and by writing these thoughts down, I hope to remind myself of these thoughts if in the future I find myself doubting again whether I belong in math.</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>https://taroshima.com/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>https://taroshima.com/post/hello/</guid>
-      <description>&amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01</description>
     </item>
     
     <item>
@@ -104,7 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://taroshima.com/about/</guid>
-      <description>I am an artist-mathematician.</description>
+      <description>I am an artist-mathematician based in NYC.</description>
     </item>
     
   </channel>
