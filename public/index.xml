@@ -71,21 +71,13 @@
     </item>
     
     <item>
-      <title>What is Hugo</title>
-      <link>https://taroshima.com/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://taroshima.com/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://taroshima.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://taroshima.com/about/</guid>
-      <description>I am an artist-mathematician based in NYC.</description>
+      <description>I am an artist-mathematician based in NYC.
+Mathematically, I am interested in similarity surfaces</description>
     </item>
     
   </channel>
