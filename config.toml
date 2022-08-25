@@ -16,12 +16,17 @@ languageCode = "en-us"
   url = "about/"
 
   [[params.navlinks]]
+  name = "cv/"
+  url = "cv/"
+
+  [[params.navlinks]]
   name = "posts/"
   url = "posts/"
 
   [[params.navlinks]]
   name = "tutoring/"
   url = "tutoring/"
+
 
   #[[params.navlinks]]
   #name = "photos/"
