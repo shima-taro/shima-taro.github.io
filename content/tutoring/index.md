@@ -7,6 +7,8 @@ Mathematics does not have to be a barrier for your academic success.
 
 Our current education system has a strong emphasis on mathematics. From standardized testing and AP courses to calculus prerequisites in college, having to excel in mathematics in order to pursue your academic dreams is essentially unavoidable. I believe that I have the skills and experience to aid students in that process.
 
+I have been in education and education adjacent roles since 2016 when I started TA-ing and tutoring for math classes on campus. Since then, I have 
+
 | Subject Level | Description | Rate ($/hr) |
 | -----------  |    :---:      | :---: |
 | Middle School Mathematics   | Pre-Algebra, Geometry       | 70 |

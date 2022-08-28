@@ -5,12 +5,23 @@
 <p>
 I am an artist-mathematician based in NYC. <a href="about/">(more)</a>
 </p>
-<br/>
 
-<h1>Latest posts</h1>
+<hr>
+
+<h1> Axioms for Practicing Mathematics </h1>
+
+<p> <b>Axiom 1:</b> Mathematical potential is distributed equally amongst different groups, irrespective of geographic, demographic, and economic boundaries. </p>
+<p> <b>Axiom 2:</b> Everyone can have joyful, meaningful, and empowering mathematical experiences. </p>
+<p> <b>Axiom 3:</b> Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs. </p>
+<p> <b>Axiom 4:</b> Every student deserves to be treated with dignity and respect. </p>
+
+<p align="right"> <i> taken from <a href="http://www.google.com/url?q=http%3A%2F%2Fmath.sfsu.edu%2Ffederico%2F&sa=D&sntz=1&usg=AOvVaw1ePuUvY29Sq7T_Jn0WkGly">Federico Ardila's website</a></i> </p>
+<hr>
+
+<h1>Some Thoughts</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+{{ with .Site.GetPage "/thoughts" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>

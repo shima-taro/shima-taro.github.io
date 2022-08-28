@@ -20,11 +20,11 @@ languageCode = "en-us"
   url = "cv/"
 
   [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
+  name = "thoughts/"
+  url = "thoughts/"
 
   [[params.navlinks]]
-  name = "tutoring/"
+  #name = "tutoring/"
   url = "tutoring/"
 
 
