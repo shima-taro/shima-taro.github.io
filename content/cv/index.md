@@ -19,18 +19,18 @@ Translation surfaces and similarity surfaces, Teichmuller theory, dynamical syst
     * *Undergraduate thesis: Left Orderable Groups*
 
 ## Talks:
-* SUMS Conference:  *Rotor Routing on Closed Surfaces* [2016]
+* SUMS Conference:  *Rotor Routing on Closed Surfaces* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Spring 2016]
 
 ## Teaching:
 
-Bridge to Enter Advanced Mathematics ([BEAM](beammath.org))
+### Bridge to Enter Advanced Mathematics ([BEAM](beammath.org))
 * Junior Faculty:&nbsp; *Fractions; Visual Reasoning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp; [Summer 2022]
 * Junior Faculty:&nbsp; *Shapes and Symmetry; Intro. to Python* &nbsp;&nbsp;&nbsp;&nbsp; [Summer 2021]
 * Junior Faculty:&nbsp; *Shapes and Symmetry; Intro. to Python* &nbsp;&nbsp;&nbsp;&nbsp; [Summer 2020]
 * Counselor/TA&nbsp;&nbsp;:&nbsp; *Counting; Ratios & Rates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* &nbsp; [Summer 2019]
 * Counselor/TA&nbsp;&nbsp;:&nbsp; *Cryptarithms; Big & Small Numbers&nbsp;&nbsp;&nbsp;&nbsp;* &nbsp;&nbsp;&nbsp;&nbsp; [Summer 2018]
 
-Brown University
+### Brown University
 * Assistant Instructor: Calculus I &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fall &nbsp;&nbsp;2018]
 * Teaching Assistant&nbsp;&nbsp;: Topology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Spring 2018]
 * Grader&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Linear Algebra &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fall&nbsp;&nbsp; 2017]
@@ -38,7 +38,7 @@ Brown University
 
 ## Service:
 
-Brown University SUMS Conference, *Co-organizer*
+### Brown University SUMS Conference, *Co-organizer*
   * Math and Teaching &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Spring 2019]
   * Math and Social Responsibility &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Spring 2018]
   * Math and Serendipity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Spring 2017]

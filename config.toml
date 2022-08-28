@@ -12,6 +12,10 @@ languageCode = "en-us"
   animateStyle = "animated zoomIn fast"
 
   [[params.navlinks]]
+  name = "home/"
+  url = ""
+
+  [[params.navlinks]]
   name = "about/"
   url = "about/"
 
