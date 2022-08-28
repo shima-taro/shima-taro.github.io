@@ -75,15 +75,10 @@ body {
     font-size: var(--global-font-size);
     background-color: #fff;
     margin-bottom: 75px;
-    text-align: justify;
 }
 
 :root ul {
   margin-top: 5px;
-}
-:root ol {
-  list-style-type: upper-roman;
-  list-style-position: outside;
 }
 
 h1,
