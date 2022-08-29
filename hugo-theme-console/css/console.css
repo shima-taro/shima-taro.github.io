@@ -79,6 +79,11 @@ body {
 
 :root ul {
   margin-top: 5px;
+  margin-bottom: 5px;
+}
+:root li {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 h1,
