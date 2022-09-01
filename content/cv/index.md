@@ -6,6 +6,8 @@ title = "Taro Shima"
 email: tshima at gradcenter dot cuny dot edu
 
 ***
+
+{{< embed-pdf url="./cv.pdf" hidePaginator="true" >}}
 ## Research Interests:
 
 Translation surfaces and similarity surfaces, Teichmuller theory, dynamical systems
