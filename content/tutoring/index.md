@@ -17,4 +17,4 @@ I have been in education and education adjacent roles since 2016 when I started 
 | Intro College Mathematics | Calculus I, Calculus II, Calculus III | 100 |
 | Upper Level College Mathematics | Analysis, Group Theory, Topology | 120 |
 
-Please reach out to me at
+Please reach out to me at tshima at gradcenter dot cuny dot edu to set up a time so that we can talk about your goals with tutoring!
