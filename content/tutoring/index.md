@@ -11,7 +11,7 @@ I have been in education and education adjacent roles since 2016, when I started
 
 Pulling from more than half a decade of experience, I aspire to guide students to become independent and flexible problem-solvers who do not need to depend on rote memorization.
 
-Please reach out to me at tshima at gradcenter dot cuny dot edu to set up a time so that we can talk about your goals with tutoring! 
+Please reach out to me at *tshima at gradcenter dot cuny dot edu* to set up a time so that we can talk about your goals with tutoring! 
 
 | Subject Level | Description | Rate ($/hr) |
 | -----------  |    :---    | :---: |
