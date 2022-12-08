@@ -11,7 +11,7 @@ I have been in education and education adjacent roles since 2016, when I started
 
 Pulling from more than half a decade of experience, I aspire to guide students to become independent and flexible problem-solvers who do not need to depend on rote memorization.
 
-Please reach out to me at *tshima [at] gradcenter [dot] cuny [dot] edu* to set up a time so that we can talk about your goals with tutoring!
+Please reach out to me at ***tshima [at] gradcenter [dot] cuny [dot] edu*** to set up a time so that we can talk about your goals with tutoring!
 
 | Subject Level | Description | Rate ($/hr) |
 | -----------  |    :---    | :---: |
@@ -20,3 +20,17 @@ Please reach out to me at *tshima [at] gradcenter [dot] cuny [dot] edu* to set u
 | Test Prep | Reading, Writing, Math [SHSAT/SAT/ACT] |  90 |
 | Intro College Mathematics | Calculus I, Calculus II, Calculus III | 100 |
 | Upper Level College Mathematics | Analysis, Group Theory, Topology | 120 |
+
+
+
+
+
+Tutoring Policies:
+
+The student must pay for a tutoring session by cash or by [Venmo](https://venmo.com/code?user_id=3490961111909966061&created=1670352653.043242&printed=1) as soon as possible after completion. Advance payments are also possible.
+
+If the student must cancel a prepaid session for reasons of family emergencies or illness, they have the option of receiving a refund or applying the prepayment toward a future session.
+
+Students who do not attend lessons without giving 12 hours advance notice to the tutor will be charged at full rate for the missed lesson. The tutor agrees to refund or apply any prepayment to a future session if the tutor cancels a session for any reason or at any time before the session begins.
+
+Students who arrive late or who terminate their sessions early will not have their fees adjusted. By extending a lesson by mutual agreement and by the amount of lost time, any time lost due to the tutor’s late arrival will be compensated for. If the student is not present after 15 minutes from the scheduled time of the session, the session will be considered canceled without sufficient notice and will therefore be subject to the cancellation and refund policy.
